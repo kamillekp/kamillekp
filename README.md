@@ -1,4 +1,4 @@
-### Olá. Kamille aqui! 👋😊
+### Hello. Kamille here! 👋😊
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
